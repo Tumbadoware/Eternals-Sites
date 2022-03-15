@@ -1,0 +1,11 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "A personal Site for tumbadoware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eternal/Tumbadoware/Chief Keef",
+  "license": "ISC"
+}
